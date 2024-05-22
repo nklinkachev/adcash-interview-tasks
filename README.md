@@ -1,0 +1,1 @@
+# adcash-interview-tasks
